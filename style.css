@@ -63,4 +63,12 @@ nav ul li a{
   color:#000;
   text-decoration: none;
 }
-#text{display:none;}
+.bgImage{
+  display: flex;
+}
+.bgImage img{
+  width:800px;
+}
+.bgImage p{
+  padding:30px;
+}
