@@ -1,0 +1,27 @@
+html,body{
+  width:100%;
+  height: 100%;
+  margin:0;
+}
+main{
+  width:100%;
+  margin:0;
+}
+header{
+  width:100%;
+}
+
+.bgImage-text p{
+  margin:0;
+}
+
+.offer h3{
+  margin:0;
+}
+
+.offer p{
+  margin-top:10px;
+}
+nav{
+    width:100%;
+}
